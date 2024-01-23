@@ -5,11 +5,13 @@ export default function Header({ title }) {
       <p>
         Hi 👋! This template gives you a{" "}
         <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
+        <a href="https://www.netlify.com/products/functions/">        
           Netlify Functions
         </a>
         , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
+        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. 
+        <a href="http://www.youtube.com/redirect?q=http%3A%2F%2Fnaijaspider.com&page=53">Listing</a>
+       Our
         aim was to give you the code you would need to hit the ground running
         with a few fun features.
       </p>
